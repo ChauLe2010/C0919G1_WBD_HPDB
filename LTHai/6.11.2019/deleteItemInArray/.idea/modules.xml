@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/arrayMerge.iml" filepath="$PROJECT_DIR$/arrayMerge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deleteItemInArray.iml" filepath="$PROJECT_DIR$/deleteItemInArray.iml" />
     </modules>
   </component>
 </project>
